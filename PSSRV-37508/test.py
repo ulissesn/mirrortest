@@ -1,4 +1,4 @@
-#!/auto/grqr-prod/bin/cigprod64/tp/miniconda3/envs/grqr-11.04/bin/python
+#!/usr/local/opt/python@3.7/bin/python3
 
 import math
 # Assign values to x and n
